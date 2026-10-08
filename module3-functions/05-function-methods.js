@@ -1,6 +1,9 @@
 /**
  * Function methods
  * call(), apply(), and bind() are used to control what this refers to when a function executes.
+ * 
+ * this is a special JavaScript keyword that refers to the object that is currently executing the function. 
+ * Its value is determined by how the function is invoked, not where the function is defined.
  */
 
 /**
